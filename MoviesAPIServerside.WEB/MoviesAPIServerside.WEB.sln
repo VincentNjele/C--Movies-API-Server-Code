@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesAPIServerside.WEB", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesAPIService.DAL", "..\MoviesAPIService.DAL\MoviesAPIService.DAL.csproj", "{56BC7FD7-FFE1-487C-A481-BDA7EC9C19A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesAPIServiceRepository", "..\MoviesAPIServiceRepository\MoviesAPIServiceRepository.csproj", "{93A9D5A5-8742-40BA-8DE6-602197960A62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesAPIServiceRepository.DAL", "..\MoviesAPIServiceRepository\MoviesAPIServiceRepository.DAL.csproj", "{93A9D5A5-8742-40BA-8DE6-602197960A62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
