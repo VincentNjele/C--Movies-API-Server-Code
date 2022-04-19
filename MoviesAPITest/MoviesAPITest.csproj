@@ -19,4 +19,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MoviesAPIServerside.WEB\MoviesAPIServerside.WEB.csproj" />
+    <ProjectReference Include="..\MoviesAPIService.DAL\MoviesAPIService.DAL.csproj" />
+    <ProjectReference Include="..\MoviesAPIServiceRepository\MoviesAPIServiceRepository.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
