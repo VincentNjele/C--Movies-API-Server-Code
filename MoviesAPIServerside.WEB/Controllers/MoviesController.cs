@@ -9,7 +9,6 @@ namespace Serverside.WEB.Controllers
 {
     public class MoviesController : Controller
     {
-        readonly string key = "9a641d7ad668061cbadbd503b17ed7cf";
         private readonly IService _generalRepository;
 
         public MoviesController(IService generalRepository)
