@@ -17,7 +17,7 @@ namespace Serverside.WEB.Controllers
         }
 
         [HttpGet]
-        [Route("api/[controller]")]
+        [Route("api/[controller]/{searchName}")]
 
         public IActionResult SearchForMovie(string searchName)
         {
